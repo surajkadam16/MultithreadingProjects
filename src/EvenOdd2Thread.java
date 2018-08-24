@@ -1,6 +1,6 @@
 /*
     This class print 1 to 100 using two threads, thread1 print only odd and Thread 2 even.
- */
+*/
 public class EvenOdd2Thread {
     private int number = 1;
 
